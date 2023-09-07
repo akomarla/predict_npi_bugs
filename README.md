@@ -1,4 +1,5 @@
 # Introduction & White Paper
+
 <img src= "https://github.com/akomarla/npi_sightings_prediction/assets/124313756/41620e8b-25bb-4551-bcbb-b15f71515f28" width = "20%" height = "20%">
 
 <img src= "https://github.com/akomarla/npi_sightings_prediction/assets/124313756/9cd4c7a7-3b2d-4052-a88d-ee9542cd09b9" width = "75%" height = "75%">
