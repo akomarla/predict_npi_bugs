@@ -10,7 +10,9 @@
 <img src= "https://github.com/akomarla/npi_sightings_prediction/assets/124313756/3c3b7777-ab68-4dc7-abe9-2303a557ec05" width = "90%" height = "90%">
 <img src= "https://github.com/akomarla/npi_sightings_prediction/assets/124313756/a99ee90d-bbdb-4fbd-a27d-3135f0a9ce1c" width = "90%" height = "90%">
 
-Note: Built for Intel NAND datacenter operations group in 2019. Raw data and results deleted for confidentiality.
+# Note
+
+Built for Intel NAND Datacenter Operations group in 2019. Raw data and results deleted for confidentiality.
 
 # Contact 
 
